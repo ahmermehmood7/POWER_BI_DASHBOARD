@@ -45,7 +45,6 @@ POWER_BI_DASHBOARD/
 ▶️ Watch the dashboard walkthrough video here:  
 [Video Demo](DB_CLIP.mp4)  
 
-*(If GitHub blocks due to file size >100MB, upload to Google Drive/YouTube and link here instead.)*  
 
 ---
 
