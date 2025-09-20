@@ -57,9 +57,11 @@ POWER_BI_DASHBOARD/
 
 ---
 
-## 👤 Author
+## 👨‍💻 Author
 **Ahmer Mehmood**  
-📌 Passionate about **Data Analytics & Business Intelligence** | Exploring **Data Visualization** to unlock insights  
-
+📧 Email: [ahmermehmood777@gmail.com](mailto:ahmermehmood777@gmail.com)  
+💼 Portfolio: [datascienceportfol.io/ahmermehmoodzz7](https://datascienceportfol.io/ahmermehmoodzz7)  
+🔗 LinkedIn: [linkedin.com/in/ahmermehmood7](https://www.linkedin.com/in/ahmermehmood7)  
+📂 GitHub: [github.com/ahmermehmood7](https://github.com/ahmermehmood7)  
 ---
 
